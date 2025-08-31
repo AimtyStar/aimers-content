@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "post1",
+    "title": "Hello World",
+    "date": "2025-09-01",
+    "summary": "First post from GitHub.",
+    "cover": "https://raw.githubusercontent.com/AimtyStar/aimers-content/main/images/1.png",
+    "tags": ["update", "intro"]
+  }
+]
